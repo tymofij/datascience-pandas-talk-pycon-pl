@@ -1,6 +1,6 @@
 # Data Science toolkit: NumPy, Pandas, Scikit-learn
 
-This is notebooks for a talk about basics of doing data science in Python, 
+These are the notebooks for a PyconPL talk about basics of doing data science in Python, 
 using Kaggle's [Predict survival on the Titanic](https://www.kaggle.com/c/titanic) as an example task.
 
 ## Notebooks
