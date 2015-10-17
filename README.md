@@ -3,6 +3,10 @@
 These are the notebooks for a PyconPL talk about basics of doing data science in Python, 
 using Kaggle's [Predict survival on the Titanic](https://www.kaggle.com/c/titanic) as an example task.
 
+## Slides
+
+* [DataScienceToolkit.pdf](DataScienceToolkit.pdf)
+
 ## Jupyter Notebooks
 
 * [Importing data and processing it with NumPy](NumPy_data_importing.ipynb)
